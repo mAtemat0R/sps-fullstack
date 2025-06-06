@@ -1,4 +1,4 @@
-# Ondřej Sitter
+# Matěj Ujhelský
 ---
 ## Zvolené rozšíření
 - Popisek

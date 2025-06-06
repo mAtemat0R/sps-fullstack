@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Ondřej Sitter",
+  "author": "Matěj Ujhelský",
   "license": "ISC",
   "dependencies": {
     "express": "5.1.0",
