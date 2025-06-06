@@ -1,4 +1,4 @@
-# Jméno Příjmení
+# Ondřej Sitter
 ---
 ## Zvolené rozšíření
 - Popisek
